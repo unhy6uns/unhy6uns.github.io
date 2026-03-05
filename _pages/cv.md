@@ -36,10 +36,13 @@ IEEE Control Systems Letters 2025
 
 Awards and Honors
 ------
+
+**Awards**  
 Best Paper Award, the 14<sup>th</sup> Asian Control Conference &nbsp; <small><span style="color:gray"> 2024 </span></small>  
 College of Engineering Outstanding Graduate Award &nbsp; <small><span style="color:gray"> 2024 </span></small>  
 Outstanding B.S. Thesis Presentation Award &nbsp; <small><span style="color:gray"> 2024 </span></small>
 
+**Scholarships**  
 Scholarship for next generation of academics, basic academic fields &nbsp; <small><span style="color:gray"> Mar. 2025 -- Feb. 2026 </span></small>  
 National scholarship for academic excellence &nbsp; <small><span style="color:gray"> Mar. 2022 -- Feb. 2024 </span></small>
 
