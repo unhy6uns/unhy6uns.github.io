@@ -10,43 +10,36 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-Seoul National University
 ------
-Mar. 2024 -- Current
-Combined M.S. and Ph.D in Electrical and Computer Engineering
-Advisor: Prof. Hyungbo Shim (Co-advised by Prof. Jin Gyu Lee)
 
-Seou
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Seoul National University** <span style="color:gray"> Mar. 2024 -- Current </span>
+- Combined M.S. and Ph.D in Electrical and Computer Engineering
+- Advisor: Prof. Hyungbo Shim (Co-advised by Prof. Jin Gyu Lee)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Seoul National University** <span style="color:gray"> Mar. 2018 -- Feb. 2024 </span>
+- B.S. in Mechanical and Aerospace Engineering (Mechanical Engineering Major)
+- Leave of absence for military duty: Aug. 2020 -- Feb. 2022
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Services
+------
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+**Reviewer of**
+- Asian Control Conference 2024
+- European Control Conference 2025
+- IEEE Control Systems Letters 2025
+
+Awards and Honors
+------
+
+
+Experiences
+------
+
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+------
+
+
+<!-- 
 
 Publications
 ======
@@ -68,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
