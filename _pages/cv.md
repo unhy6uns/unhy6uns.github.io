@@ -24,16 +24,6 @@ B.S. in Mechanical and Aerospace Engineering (Mechanical Engineering Major)
 
 ---
 
-Services
-------
-
-**Reviewer**  
-Asian Control Conference 2024  
-European Control Conference 2025  
-IEEE Control Systems Letters 2025  
-
----
-
 Awards and Honors
 ------
 
@@ -57,6 +47,16 @@ Control and Dynamical Systems Lab. (Advisor: Prof. Hyungbo Shim) &nbsp; <small><
 **Teaching Assistant**  
 Introduction to control engineering (Instructor: Prof. Hyungbo Shim) &nbsp; <small><span style="color:gray"> Fall 2025 </span></small>  
 Dynamics (Undergraduate TA; Instructor: Prof. Frank C. Park) &nbsp; <small><span style="color:gray"> Fall 2022 </span></small>  
+
+---
+
+Services
+------
+
+**Reviewer**  
+Asian Control Conference <small><span style="color:gray"> 2024 </span></small>  
+European Control Conference <small><span style="color:gray"> 2025 </span></small>  
+IEEE Control Systems Letters <small><span style="color:gray"> 2025 </span></small>  
 
 ---
 
