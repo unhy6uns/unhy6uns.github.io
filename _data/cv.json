@@ -1,54 +1,56 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Sunghyun koo",
+    "email": "shkoo@cdsl.kr",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://unhy6uns.github.io",
+    "summary": "Curriculum Vitae",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Seoul",
+      "countryCode": "KR",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=sK3yWUsAAAAJ&hl=ko"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0003-3864-635X"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "unhy6uns",
+        "url": "https://github.com/unhy6uns"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Seoul National University",
+      "area": "Combined M.S. and Ph.D in Electrical and Computer Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "Mar. 2024",
+      "endDate": "Current",
       "gpa": null,
-      "courses": []
+      "courses": [],
+      "Advisor": "Prof. Hyungbo Shim (Co-advised by Prof. Jin Gyu Lee)"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Seoul National University",
+      "area": "B.S. in Mechanical and Aerospace Engineering (Mechanical Engineering Major)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "Mar. 2018",
+      "endDate": "Feb. 2024",
       "gpa": null,
-      "courses": []
+      "courses": [],
+      "Note": "Leaved of absence for military duty (Aug. 2020 - Feb. 2022)"
     },
     {
       "institution": "GitHub University",
