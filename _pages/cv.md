@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 Education
 ------
 
@@ -20,6 +22,8 @@ Advisor: Prof. Hyungbo Shim (Co-advised by Prof. Jin Gyu Lee)
 B.S. in Mechanical and Aerospace Engineering (Mechanical Engineering Major)  
 *Leave of absence for military duty: Aug. 2020 -- Feb. 2022
 
+---
+
 Services
 ------
 
@@ -27,6 +31,8 @@ Services
 Asian Control Conference 2024  
 European Control Conference 2025  
 IEEE Control Systems Letters 2025  
+
+---
 
 Awards and Honors
 ------
@@ -37,8 +43,12 @@ Outstanding B.S. Thesis Presentation Award &nbsp; <small><span style="color:gray
 Scholarship for next generation of academics, basic academic fields &nbsp; <small><span style="color:gray"> Mar. 2025 -- Feb. 2026 </span></small>  
 National scholarship for academic excellence &nbsp; <small><span style="color:gray"> Mar. 2022 -- Feb. 2024 </span></small>
 
+---
+
 Experiences
 ------
+
+---
 
 Skills
 ------
