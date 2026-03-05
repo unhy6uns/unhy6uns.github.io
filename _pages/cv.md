@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,6 +11,13 @@ redirect_from:
 
 Education
 ======
+Seoul National University
+------
+Mar. 2024 -- Current
+Combined M.S. and Ph.D in Electrical and Computer Engineering
+Advisor: Prof. Hyungbo Shim (Co-advised by Prof. Jin Gyu Lee)
+
+Seou
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
