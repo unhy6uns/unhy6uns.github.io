@@ -34,7 +34,7 @@ Outstanding B.S. Thesis Presentation Award <small><span style="color:gray"> | 20
 
 **Scholarships**  
 Scholarship for next generation of academics, basic academic fields <small><span style="color:gray"> | Mar. 2025 -- Feb. 2026 </span></small>  
-National scholarship for academic excellence &nbsp; <small><span style="color:gray"> | Mar. 2022 -- Feb. 2024 </span></small>
+National scholarship for academic excellence <small><span style="color:gray"> | Mar. 2022 -- Feb. 2024 </span></small>
 
 ---
 
