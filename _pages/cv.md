@@ -12,11 +12,11 @@ redirect_from:
 Education
 ------
 
-**Seoul National University** &ensp; <small><span style="color:gray"> Mar. 2024 -- Current </span></small>  
+**Seoul National University** &nbsp; <small><span style="color:gray"> Mar. 2024 -- Current </span></small>  
 Combined M.S./Ph.D in Electrical and Computer Engineering  
 Advisor: Prof. Hyungbo Shim (Co-advised by Prof. Jin Gyu Lee)  
 
-**Seoul National University** &ensp; <small><span style="color:gray"> Mar. 2018 -- Feb. 2024 </span></small>  
+**Seoul National University** &nbsp; <small><span style="color:gray"> Mar. 2018 -- Feb. 2024 </span></small>  
 B.S. in Mechanical and Aerospace Engineering (Mechanical Engineering Major)  
 *Leave of absence for military duty: Aug. 2020 -- Feb. 2022
 
@@ -30,12 +30,12 @@ IEEE Control Systems Letters 2025
 
 Awards and Honors
 ------
-Best Paper Award, the 14<sup>th</sup> Asian Control Conference &ensp; <small><span style="color:gray"> 2024 </span></small>  
-College of Engineering Outstanding Graduate Award &ensp; <small><span style="color:gray"> 2024 </span></small>  
-Outstanding B.S. Thesis Presentation Award &ensp; <small><span style="color:gray"> 2024 </span></small>
+Best Paper Award, the 14<sup>th</sup> Asian Control Conference &nbsp; <small><span style="color:gray"> 2024 </span></small>  
+College of Engineering Outstanding Graduate Award &nbsp; <small><span style="color:gray"> 2024 </span></small>  
+Outstanding B.S. Thesis Presentation Award &nbsp; <small><span style="color:gray"> 2024 </span></small>
 
-Scholarship for next generation of academics, basic academic fields &ensp; <small><span style="color:gray"> Mar. 2025 -- Feb. 2026 </span></small>  
-National scholarship for academic excellence &ensp; <small><span style="color:gray"> Mar. 2022 -- Feb. 2024 </span></small>
+Scholarship for next generation of academics, basic academic fields &nbsp; <small><span style="color:gray"> Mar. 2025 -- Feb. 2026 </span></small>  
+National scholarship for academic excellence &nbsp; <small><span style="color:gray"> Mar. 2022 -- Feb. 2024 </span></small>
 
 Experiences
 ------
