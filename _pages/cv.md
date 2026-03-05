@@ -51,11 +51,26 @@ National scholarship for academic excellence &nbsp; <small><span style="color:gr
 Experiences
 ------
 
+**Research Intern**  
+Control and Dynamical Systems Lab. (Advisor: Prof. Hyungbo Shim) &nbsp; <small><span style="color:gray"> Jul. 2023 -- Feb. 2024 </span></small>
+
+**Teaching Assistant**  
+Introduction to control engineering (Instructor: Prof. Hyungbo Shim) &nbsp; <small><span style="color:gray"> Fall 2025 </span></small>  
+Dynamics (Undergraduate TA; Instructor: Prof. Frank C. Park) &nbsp; <small><span style="color:gray"> Fall 2022 </span></small>  
+
 ---
 
 Skills
 ------
 
+**Languages**  
+Korean, English  
+
+**Programming**  
+MATLAB, Python, C/C++  
+
+**Libraries/Frameworks**  
+CVX, PyTorch, ROS
 
 <!-- 
 
