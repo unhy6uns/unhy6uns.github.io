@@ -42,7 +42,8 @@ Experiences
 ------
 
 **Research Internship**  
-Control and Dynamical Systems Lab. (Advisor: Prof. Hyungbo Shim) <small><span style="color:gray"> | Jul. 2023 -- Feb. 2024 </span></small>
+Control and Dynamical Systems Lab. (Advisor: Prof. Hyungbo Shim) <small><span style="color:gray"> | Jul. 2023 -- Feb. 2024 </span></small>  
+Hyundai Motor Company, Hyundai Motor Manufacturaing Czech (HMMC) <small><span style="color:gray"> | Jan. 2023 -- Feb. 2023 </span></small>  
 
 **Teaching Assistant**  
 Fundamentals of control engineering (Instructor: Prof. Hyungbo Shim) <small><span style="color:gray"> | Fall 2025 </span></small>  
