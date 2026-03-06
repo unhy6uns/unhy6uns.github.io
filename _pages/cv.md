@@ -16,7 +16,7 @@ Education
 
 **Seoul National University** <small><span style="color:gray"> | Mar. 2024 -- Current </span></small>  
 Combined M.S./Ph.D in Electrical and Computer Engineering  
-Advisor: Prof. Hyungbo Shim (Co-advised by Prof. Jin Gyu Lee)  
+Advisor: Prof. Hyungbo Shim (Co-advisor: Prof. Jin Gyu Lee)  
 
 **Seoul National University** <small><span style="color:gray"> | Mar. 2018 -- Feb. 2024 </span></small>  
 B.S. in Mechanical and Aerospace Engineering (Mechanical Engineering Major)  
@@ -24,11 +24,11 @@ B.S. in Mechanical and Aerospace Engineering (Mechanical Engineering Major)
 
 ---
 
-Awards and Honors
+Honors and Awards
 ------
 
 **Awards**  
-Best Paper Award, the 14<sup>th</sup> Asian Control Conference <small><span style="color:gray"> | 2024 </span></small>  
+Best Paper Award, 14<sup>th</sup> Asian Control Conference <small><span style="color:gray"> | 2024 </span></small>  
 College of Engineering Outstanding Graduate Award <small><span style="color:gray"> | 2024 </span></small>  
 Outstanding B.S. Thesis Presentation Award <small><span style="color:gray"> | 2024 </span></small>
 
@@ -41,11 +41,11 @@ National scholarship for academic excellence <small><span style="color:gray"> | 
 Experiences
 ------
 
-**Research Intern**  
+**Research Internship**  
 Control and Dynamical Systems Lab. (Advisor: Prof. Hyungbo Shim) <small><span style="color:gray"> | Jul. 2023 -- Feb. 2024 </span></small>
 
 **Teaching Assistant**  
-Introduction to control engineering (Instructor: Prof. Hyungbo Shim) <small><span style="color:gray"> | Fall 2025 </span></small>  
+Fundamentals of control engineering (Instructor: Prof. Hyungbo Shim) <small><span style="color:gray"> | Fall 2025 </span></small>  
 Dynamics (Undergraduate TA; Instructor: Prof. Frank C. Park) <small><span style="color:gray"> | Fall 2022 </span></small>  
 
 ---
