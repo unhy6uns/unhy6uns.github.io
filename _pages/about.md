@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Student in [Coontrol & Dynamic Systems Lab. (CDSL)](https://post.cdsl.kr), advised by [Prof. Hyungbo Shim](https://hshim.wordpress.com/) and [Prof. Jin Gyu Lee](https://jingyulee92.wordpress.com/). My research interests mainly lie in **control theory**, and includes its **enabling applications**. Currently, I am working on i) designing and analyzing multi-agent systems, ii) stochastic system theory, and iii) EV charging scheduling problem.
+I am a Ph.D. Student in [Coontrol & Dynamic Systems Lab. (CDSL)](https://post.cdsl.kr), advised by [Prof. Hyungbo Shim](https://hshim.wordpress.com/) and [Prof. Jin Gyu Lee](https://jingyulee92.wordpress.com/). My research interests mainly lie in **control theory** and includes its **enabling applications**. Currently, I am working on i) designing and analyzing multi-agent systems, ii) stochastic system theory, and iii) EV charging scheduling problem.
 
 <!-- A data-driven personal website
 ======
